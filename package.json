@@ -1,0 +1,10 @@
+{
+  "name": "cra-ts-eslint-prettier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.tsx",
+  "license": "MIT",
+  "repository": {
+
+  }
+}
